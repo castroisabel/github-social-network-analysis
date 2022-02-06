@@ -1,4 +1,4 @@
-# github-social-network-analisis
+# github-social-network-analysis
 
 Análise da Rede Social do GitHub
 
