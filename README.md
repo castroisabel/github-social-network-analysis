@@ -10,5 +10,6 @@ Existe uma grande rede social de desenvolvedores GitHub, onde os vértices repre
 *Referências*: \
 https://snap.stanford.edu/data/github-social.html \
 https://github.com/franciscoicmc/tutorial-networks \
+https://github.com/benedekrozemberczki/MUSAE \
 https://awadrahman.medium.com/hands-on-graph-neural-networks-for-social-network-using-pytorch-30231c130b38
 
